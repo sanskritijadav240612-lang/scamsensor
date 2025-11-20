@@ -1,0 +1,54 @@
+{
+  "timestamp": 1763485814786,
+  "data": {
+    "topic": "Finance & Banking",
+    "sub_topic": "UPI Fraud",
+    "tags_used": [
+      "Money Request Trick",
+      "QR Trick",
+      "UPI Fake Link"
+    ],
+    "overview": "UPI lets you send and get money quickly using your phone. But sometimes, people try to trick you into sending them money instead. These tricks often look like real messages or requests, so it's good to know what to watch out for.",
+    "important_tips": [
+      "Never share your OTP (One-Time Password) with anyone, not even your bank.",
+      "Always double-check any payment link or QR code before you do anything.",
+      "Keep your personal papers and details safe and private."
+    ],
+    "how_it_works": [
+      "**Money Request Trick:** Someone sends you a request to 'get' money, but if you accept, you actually 'send' money from your account.",
+      "**QR Trick:** You might be asked to scan a QR code to 'receive' money, but scanning it actually makes you send money.",
+      "**UPI Fake Link:** You click on a message link that looks like a bank or payment app, but it's a fake one trying to steal your money or details."
+    ],
+    "red_flags": [
+      "Someone asks you to scan a QR code or approve a money request to 'get' money.",
+      "You get a message with a link that looks a little different from what your bank usually sends.",
+      "You are pressured to act very quickly without time to think or check."
+    ],
+    "prevention_steps": [
+      "Always check the name and message carefully before accepting any UPI request.",
+      "Only enter your UPI PIN when you are *sending* money, never when *receiving* money.",
+      "Look very closely at any link before clicking; even a small change can mean it's fake."
+    ],
+    "real_world_examples": [
+      "Imagine someone selling something online tells you to 'scan this QR code to receive your payment'.",
+      "You get a text message that says, 'Your bank account will be blocked, click this link to update your details via UPI'.",
+      "A call comes from someone pretending to be from your bank asking you to approve a UPI money request to 'fix' your account."
+    ],
+    "what_to_do_if_you_are_a_victim": [
+      "Immediately call your bank and tell them what happened.",
+      "Report the fraud on the government's national helpline 1930.",
+      "Talk to a trusted family member or friend for support."
+    ],
+    "safe_checklist": [
+      "Always confirm who is sending a request before you approve it.",
+      "Remember that you never need to enter your PIN to get money.",
+      "Be careful of unexpected messages or calls about your UPI account."
+    ],
+    "legal_help_and_reporting": [
+      "You can call the National Cybercrime Helpline at 1930 for help.",
+      "You can also visit the official website Cybercrime.gov.in to report the incident.",
+      "Contact your bank's customer support right away for guidance."
+    ],
+    "ai_confidence": 0.95
+  }
+}

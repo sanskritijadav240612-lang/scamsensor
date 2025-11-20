@@ -1,0 +1,54 @@
+{
+  "timestamp": 1763486337915,
+  "data": {
+    "topic": "Personal Identity & Documents",
+    "sub_topic": "Personal Data Leak Misuse",
+    "tags_used": [
+      "Data Leak",
+      "Personal Info Misuse",
+      "Identity Theft"
+    ],
+    "overview": "Sometimes, your private details like your name, address, or bank numbers can fall into the wrong hands. When this happens, bad actors might try to use your information to pretend to be you or do things in your name. This is called personal data leak misuse, and it's important to know how to keep your details safe.",
+    "important_tips": [
+      "Never share your One Time Password (OTP) with anyone, not even someone who says they are from your bank.",
+      "Always keep your important papers like Aadhaar card and PAN card in a very safe place.",
+      "Carefully check any payment links or messages before you click on them or pay money."
+    ],
+    "how_it_works": [
+      "Someone might trick you into giving away your private information, like your bank account number or password.",
+      "Your private details could be taken from a website or company that stores them.",
+      "Once bad actors have your details, they can use them to open fake accounts or make purchases pretending to be you."
+    ],
+    "red_flags": [
+      "You get phone calls or messages about loans or services you never asked for.",
+      "You see money missing from your bank account or credit card statements that you didn't spend.",
+      "You receive bills or letters for things you didn't buy or accounts you didn't open."
+    ],
+    "prevention_steps": [
+      "Be very careful about what private information you share online or with strangers.",
+      "Use strong and different passwords for all your important online accounts.",
+      "Regularly check your bank and payment statements to look for anything unusual."
+    ],
+    "real_world_examples": [
+      "A bad actor uses a copy of your Aadhaar card to get a new phone connection in your name.",
+      "Someone takes your PAN card details to open a fake bank account without you knowing.",
+      "You get a call from someone pretending to be from your bank, asking for your account password or PIN."
+    ],
+    "what_to_do_if_you_are_a_victim": [
+      "Contact your bank or payment service right away if you notice any strange transactions.",
+      "Change the passwords for all your important online accounts immediately.",
+      "Talk to a trusted family member or friend about what happened to get support."
+    ],
+    "safe_checklist": [
+      "Have I kept my Aadhaar and PAN card details safe and secure?",
+      "Do I use different and hard-to-guess passwords for my important online accounts?",
+      "Do I always check messages or calls carefully before sharing any private details?"
+    ],
+    "legal_help_and_reporting": [
+      "You can call the national helpline number 1930 to report such issues.",
+      "You can also report the problem online at the government website: www.cybercrime.gov.in.",
+      "If needed, you can visit your nearest police station to file a complaint."
+    ],
+    "ai_confidence": 0.98
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "timestamp": 1763571621150,
+  "data": {
+    "topic": "Communication & Social Platforms",
+    "sub_topic": "Fake Calls/SMS/Emails",
+    "tags_used": [
+      "Email Fraud",
+      "SMS Fraud",
+      "Password Trick",
+      "Fake Call",
+      "Fake SMS"
+    ],
+    "overview": "Sometimes, bad actors pretend to be people or companies you trust. They send fake calls, text messages, or emails. Their goal is often to trick you into giving away your money or personal details.",
+    "important_tips": [
+      "Always keep your bank OTPs a secret, even from family.",
+      "Make sure your important documents are stored safely.",
+      "Always double-check any link before you click on it to pay."
+    ],
+    "how_it_works": [
+      "A scammer might call, text, or email you pretending to be from your bank or a government office.",
+      "They often tell you there's a problem with your account or a prize waiting for you.",
+      "They try to make you scared or excited so you act quickly without thinking."
+    ],
+    "red_flags": [
+      "The message asks for your passwords or bank card details.",
+      "It tells you to act right away or something bad will happen.",
+      "The sender's name or email address looks a little bit off."
+    ],
+    "prevention_steps": [
+      "Always check who sent the message or made the call.",
+      "Do not click on links in messages from unknown senders.",
+      "Never share your private information like OTPs, PINs, or passwords with anyone."
+    ],
+    "real_world_examples": [
+      "You get an SMS saying you won a big lottery prize and need to pay a small fee to claim it.",
+      "Someone calls you pretending to be from SBI and asks for your OTP to 'verify' your account.",
+      "An email looks like it's from your electricity company, saying your bill is overdue and asking you to click a strange link to pay."
+    ],
+    "what_to_do_if_you_are_a_victim": [
+      "It's okay, these things happen, and it's not your fault.",
+      "Quickly tell a trusted family member or friend about what happened.",
+      "Contact your bank immediately to stop any money transfers or block cards."
+    ],
+    "safe_checklist": [
+      "Verify the sender's identity every time.",
+      "Pause and think before you click any link.",
+      "Keep your personal details and secrets safe."
+    ],
+    "legal_help_and_reporting": [
+      "You can call the national helpline number 1930 for cyber help.",
+      "Visit the government's cyber crime reporting website to file a complaint.",
+      "Tell your bank right away if any money was taken from your account."
+    ],
+    "ai_confidence": 0.95
+  }
+}

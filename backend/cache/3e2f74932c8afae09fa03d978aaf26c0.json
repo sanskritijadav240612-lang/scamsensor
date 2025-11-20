@@ -1,0 +1,54 @@
+{
+  "timestamp": 1763562405401,
+  "data": {
+    "topic": "Shopping, Services & Online Marketplaces",
+    "sub_topic": "Fake Shopping Sites",
+    "tags_used": [
+      "Card Steal",
+      "Fake Shop",
+      "Online Shopping Fraud"
+    ],
+    "overview": "These are websites that look just like real online shops but are made to trick you. They often show exciting deals and very low prices to get your attention. Their main goal is to take your money or your personal details.",
+    "important_tips": [
+      "Never share your OTP (One Time Password) with anyone, not even friends or family.",
+      "Keep your bank details, Aadhar, and other personal documents safe and private.",
+      "Always double-check the payment link and details before you click 'pay' for anything online."
+    ],
+    "how_it_works": [
+      "Scammers create websites that look very much like famous or popular online stores.",
+      "They show things like mobile phones or clothes at prices that seem too good to be true.",
+      "When you try to buy, they ask for your bank card number, secret code, or other personal information."
+    ],
+    "red_flags": [
+      "Prices are unbelievably low, much cheaper than any other trusted shop.",
+      "The website name might have small spelling mistakes or look a little strange.",
+      "There is no clear contact number, email, or address for the shop."
+    ],
+    "prevention_steps": [
+      "Always check the website address very carefully before you type anything into it.",
+      "Look for reviews of the website from other people or ask friends if they know the shop.",
+      "Use trusted payment options, like cash on delivery if available, for new shops."
+    ],
+    "real_world_examples": [
+      "Imagine a website selling a brand new smartphone for only Rs. 1000, claiming it's a special festival offer.",
+      "An online store offers a famous brand saree for a very low price but asks for your full bank details and OTP upfront.",
+      "A website looks like a popular electronics shop, but the website name is 'amazun.in' instead of 'amazon.in'."
+    ],
+    "what_to_do_if_you_are_a_victim": [
+      "Please do not worry, this can happen to anyone.",
+      "Contact your bank or card company right away to stop any payments.",
+      "Report the fake website and the incident to the police or cyber crime helpline."
+    ],
+    "safe_checklist": [
+      "Is the website address spelled correctly and does it look familiar?",
+      "Are the prices realistic for the item, or are they suspiciously low?",
+      "Can you easily find customer service contact information like a phone number or email?"
+    ],
+    "legal_help_and_reporting": [
+      "You can call the National Cyber Crime Helpline at 1930 to report fraud.",
+      "You can also file a complaint online on the official Cyber Crime website.",
+      "Inform your bank about the fraud immediately so they can help you."
+    ],
+    "ai_confidence": 0.98
+  }
+}

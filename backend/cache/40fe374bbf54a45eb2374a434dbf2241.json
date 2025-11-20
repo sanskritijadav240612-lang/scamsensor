@@ -1,0 +1,55 @@
+{
+  "timestamp": 1763486404661,
+  "data": {
+    "topic": "Personal Identity & Documents",
+    "sub_topic": "Fake Aadhaar/PAN",
+    "tags_used": [
+      "Fake ID",
+      "Fake Document",
+      "Aadhaar Trick",
+      "PAN Trick"
+    ],
+    "overview": "Your Aadhaar and PAN cards are very important papers that prove who you are. They help you do many things like open a bank account or get a job. Sometimes, bad people try to make fake copies of these cards. These fake cards can cause trouble and harm your good name.",
+    "important_tips": [
+      "Never share your OTP (One Time Password) with anyone, not even friends or family.",
+      "Always keep your important documents like Aadhaar and PAN safe and private.",
+      "Carefully check any payment links or messages before you click on them."
+    ],
+    "how_it_works": [
+      "Someone might offer to make an Aadhaar or PAN card for you very quickly or cheaply.",
+      "They might ask for your personal details to 'update' your existing card.",
+      "Bad actors could use a fake card to pretend to be you or someone else to get services or money."
+    ],
+    "red_flags": [
+      "If someone asks for extra money to speed up making your document.",
+      "If they promise to get you a card without asking for proper identity proofs.",
+      "If the document you get looks a bit strange or has spelling mistakes."
+    ],
+    "prevention_steps": [
+      "Always get your Aadhaar or PAN card from official government centers or websites.",
+      "Do not share your full document details or copies with people you do not trust.",
+      "Check your document carefully for any errors as soon as you receive it."
+    ],
+    "real_world_examples": [
+      "Someone offering to make a PAN card for you at a small shop without needing proper forms.",
+      "An agent promising a 'fast-track' Aadhaar update service for a high fee outside a government office.",
+      "A person trying to rent a house using a fake Aadhaar card in Delhi."
+    ],
+    "what_to_do_if_you_are_a_victim": [
+      "Stay calm and do not worry, it's not your fault.",
+      "Tell a trusted family member or friend what has happened.",
+      "Gather any information you have about the fake document or the person who tricked you."
+    ],
+    "safe_checklist": [
+      "Get your official documents only from trusted government sources.",
+      "Protect your personal details and document numbers, just like you protect your money.",
+      "If something sounds too good to be true, it's usually a trick."
+    ],
+    "legal_help_and_reporting": [
+      "You can report incidents to the National Cybercrime Reporting Portal in India.",
+      "Visit your local police station to file a complaint.",
+      "If money or bank accounts are involved, also inform your bank right away."
+    ],
+    "ai_confidence": 0.98
+  }
+}

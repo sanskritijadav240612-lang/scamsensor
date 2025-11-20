@@ -1,0 +1,59 @@
+{
+  "timestamp": 1763562718785,
+  "data": {
+    "topic": "Personal Identity & Documents",
+    "sub_topic": "Biometric Stealing",
+    "tags_used": [
+      "Fake Fingerprint Use",
+      "Fake Face Scan Use",
+      "Biometric Leak"
+    ],
+    "overview": [
+      "Biometric stealing is when someone takes your unique body details.",
+      "This could be your fingerprint or a scan of your face.",
+      "They use these details to pretend to be you."
+    ],
+    "important_tips": [
+      "Never share your One Time Password (OTP) with anyone.",
+      "Always keep your important papers and documents safe at home.",
+      "Carefully check payment links before you click to pay."
+    ],
+    "how_it_works": [
+      "Scammers might trick you into touching a fake fingerprint reader.",
+      "They could also secretly take a picture of your face.",
+      "They then make a copy that looks exactly like your real biometric detail.",
+      "They use this fake copy to get into places or systems that think it's you."
+    ],
+    "red_flags": [
+      "Someone asks for your fingerprint or face scan in a strange place.",
+      "A device for scanning looks cheap, old, or out of place.",
+      "You are asked for your biometrics for something that doesn't make sense."
+    ],
+    "prevention_steps": [
+      "Be very careful where you place your finger or scan your face.",
+      "Only use trusted machines and at places you know well, like banks or government offices.",
+      "Do not let unknown people take photos or videos of your face without a good reason."
+    ],
+    "real_world_examples": [
+      "Imagine a small shop asks you to put your thumb on a strange machine for a 'special discount'.",
+      "Someone might promise a new government scheme and ask to scan your face at a roadside stall.",
+      "A fake online form might ask for a picture of your face to 'verify' your identity for a prize."
+    ],
+    "what_to_do_if_you_are_a_victim": [
+      "Immediately tell your bank if any money is involved or accounts are accessed.",
+      "Talk to a family member or friend you trust about what happened.",
+      "Report the incident to the local police station."
+    ],
+    "safe_checklist": [
+      "Do I truly understand why someone is asking for my fingerprint or face scan?",
+      "Is this place or person a trusted source for my personal details?",
+      "Does the machine or setup for scanning look official and safe?"
+    ],
+    "legal_help_and_reporting": [
+      "You should report the scam to your nearest police station.",
+      "You can also call the national helpline number for cybercrimes.",
+      "Your bank can help you if your account was used without your permission."
+    ],
+    "ai_confidence": 0.95
+  }
+}

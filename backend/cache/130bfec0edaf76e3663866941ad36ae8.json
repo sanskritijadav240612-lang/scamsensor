@@ -1,0 +1,62 @@
+{
+  "timestamp": 1763487692260,
+  "data": {
+    "topic": "Home Visitors, Field Agents & Public Services",
+    "sub_topic": "Digital Arrest",
+    "tags_used": [
+      "Fake Police",
+      "Fake CBI Video Call",
+      "Digital Arrest Trick"
+    ],
+    "overview": "This scam happens when someone pretends to be from the police or CBI. They call you and say you are in big trouble, maybe linked to a crime. They then ask you for money to avoid being arrested or to clear your name.",
+    "important_tips": [
+      "Never share your One Time Password (OTP) with anyone.",
+      "Always keep your personal documents like Aadhaar and PAN safe.",
+      "Carefully check any payment links before you click on them."
+    ],
+    "how_it_works": [
+      "Scammers call or video call you, pretending to be from the police or CBI.",
+      "They say your name is linked to a serious crime, like a money issue or a suspicious parcel.",
+      "They might show you fake ID cards or made-up documents on the video call.",
+      "They then demand you send money to a 'safe' account to prove you are innocent or stop your arrest.",
+      "They often tell you to keep this whole matter a secret from everyone."
+    ],
+    "red_flags": [
+      "Someone claiming to be police or CBI calls you unexpectedly and makes serious accusations.",
+      "They ask you to send money to 'fix' a legal problem or avoid going to jail.",
+      "They tell you not to tell anyone else about the call and to stay on the line.",
+      "They pressure you to act very quickly, making you feel scared or rushed.",
+      "They use video calls where people are in uniforms but the situation feels strange."
+    ],
+    "prevention_steps": [
+      "Remember that real police or government offices never ask for money over the phone or a video call.",
+      "If someone calls claiming to be from the police, hang up and call the official police station directly to check.",
+      "Never share your bank details, OTP, or transfer money to anyone who pressures you like this.",
+      "If you feel uneasy or suspicious during a call, it's best to simply hang up.",
+      "Always confirm any serious claims by calling official numbers you find yourself, not numbers given by the caller."
+    ],
+    "real_world_examples": [
+      "A person gets a call saying their Aadhaar card was used in a crime and they need to pay a 'fine' to clear it.",
+      "Someone receives a video call from a person in a fake police uniform demanding money to close a 'case' linked to their bank account.",
+      "A scammer tells an elderly person that a parcel with illegal items was sent in their name and they must pay immediately to avoid arrest."
+    ],
+    "what_to_do_if_you_are_a_victim": [
+      "Do not panic, take a deep breath.",
+      "Stop all contact with the scammer right away.",
+      "Inform your bank immediately if you have shared any money or bank details.",
+      "Report the scam to the police or the cybercrime helpline.",
+      "Talk to a trusted family member or friend about what happened."
+    ],
+    "safe_checklist": [
+      "Did they ask for money to 'fix' a police or legal matter? (It should be NO)",
+      "Did they pressure you to keep the call a secret from everyone? (It should be NO)",
+      "Did they make you feel scared or rushed to make a decision? (It should be NO)"
+    ],
+    "legal_help_and_reporting": [
+      "You can call the National Cybercrime Helpline at 1930 for help.",
+      "You can visit the official cybercrime portal at cybercrime.gov.in to report the incident.",
+      "You can also go to your nearest police station to file a complaint."
+    ],
+    "ai_confidence": 0.98
+  }
+}
